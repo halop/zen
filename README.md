@@ -64,7 +64,7 @@ Building from source
 
 * Install for Linux
 ```{r, engine='bash'}
-git clone https://github.com/ZencashOfficial/zen.git
+git clone https://github.com/halop/zen.git
 cd zen
 # Build
 ./zcutil/build.sh -j$(nproc)
